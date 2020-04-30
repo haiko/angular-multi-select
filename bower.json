@@ -15,4 +15,7 @@
         "screenshot.png",
         "/doc"
     ]
+  "dependencies": {
+    "angular": "1.5.5"
+  }
 }
